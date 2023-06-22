@@ -1,4 +1,2 @@
 # **showcaseWebsite**
-*First assignment of university - ICT Course*
-
-[Website.png](https://postimg.cc/GBNzwgnB)
+*First assignment of my study in HZ UAC - ICT Course*
