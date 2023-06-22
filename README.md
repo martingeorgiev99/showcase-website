@@ -1,2 +1,4 @@
-# showcase-website
-A website used as an means of introduction to HTML, JavaScript and CSS
+# **showcaseWebsite**
+*First assignment of university - ICT Course*
+
+[Website.png](https://postimg.cc/GBNzwgnB)
